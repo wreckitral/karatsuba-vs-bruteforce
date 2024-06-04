@@ -13,4 +13,9 @@ type command
 `cd karatsuba`
 `go test -bench=.`
 
+### Graphic
+Performance comparison
+![performance](https://github.com/wreckitral/karatsuba-vs-bruteforce/blob/master/graphic/operations.png?raw=true)
+
+
 
