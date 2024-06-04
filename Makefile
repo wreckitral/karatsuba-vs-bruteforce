@@ -31,4 +31,3 @@ benchmark:
 	echo "Cleaning up" && \
 	rm -f ../graphic/out.dat ../graphic/final.dat && \
 	echo "'graphic/operations.png' and 'graphic/time_operations.png' graphics were generated."
-
